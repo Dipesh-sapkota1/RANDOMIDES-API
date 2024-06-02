@@ -1,0 +1,14 @@
+{
+  "name": "randomides-api",
+  "version": "1.0.0",
+  "description": "app to share ideas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Dipesh sapkota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
